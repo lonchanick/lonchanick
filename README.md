@@ -8,8 +8,6 @@ I'm a Junior Web Developer passionate about building web applications and learni
 - Frameworks: ASP.net Core, Django
 - Tools: Git, GitHub, VS Code, Postman
 
-
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
@@ -28,14 +26,6 @@ I'm a Junior Web Developer passionate about building web applications and learni
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-
-#
-
-
-
-
-
-
 
 ## 🌱 Learning
 - Currently learning Razor Pages and Database Design.
