@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Diego 👋
 
-<!--
-**lonchanick/lonchanick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a Junior Web Developer passionate about building web applications and learning new technologies. Currently, I'm working on enhancing my skills in frontend and backend development.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- Languages: C#, SQL, HTML, CSS, JavaScript, SQL Server
+- Frameworks: ASP.net Core, Django
+- Tools: Git, GitHub, VS Code, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning
+- Currently learning Razor Pages and Database Design.
+- Exploring advanced topics in backend development with Node.js.
+
+## 📫 Contact Me
+- [Email](mailto:diego.arroyo2462050@gmail.com)
+- [LinkedIn](https://www.linkedin.com/feed/)
+- [Portfolio](https://lonchanick.github.io/)
+
