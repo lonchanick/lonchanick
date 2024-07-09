@@ -16,4 +16,3 @@ I'm a Junior Web Developer passionate about building web applications and learni
 - [Email](mailto:diego.arroyo2462050@gmail.com)
 - [LinkedIn](https://www.linkedin.com/feed/)
 - [Portfolio](https://lonchanick.github.io/)
-
