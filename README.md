@@ -1,5 +1,5 @@
-# Hi there, I'm Diego 👋
-
+## Hi there 👋
+<<<<<<< HEAD
 ## 🚀 About Me
 I'm a Junior Web Developer passionate about building web applications and learning new technologies. Currently, I'm working on enhancing my skills in frontend and backend development.
 
@@ -16,3 +16,4 @@ I'm a Junior Web Developer passionate about building web applications and learni
 - [Email](mailto:diego.arroyo2462050@gmail.com)
 - [LinkedIn](https://www.linkedin.com/feed/)
 - [Portfolio](https://lonchanick.github.io/)
+=======
