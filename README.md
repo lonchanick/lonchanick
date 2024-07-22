@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi! I'm Diego.
 
 ## 🚀 About Me
 I'm a Junior Web Developer passionate about building web applications and learning new technologies. Currently, I'm working on enhancing my skills in frontend and backend development.
@@ -8,7 +8,7 @@ I'm a Junior Web Developer passionate about building web applications and learni
 - Frameworks: ASP.net Core, Django
 - Tools: Git, GitHub, VS Code, Postman
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 
 <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
@@ -35,8 +35,10 @@ I'm a Junior Web Developer passionate about building web applications and learni
 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 
+
 ## GitHub Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lonchanick&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lonchanick&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 🌱 Learning
