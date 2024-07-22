@@ -8,9 +8,7 @@ I'm a Junior Web Developer passionate about building web applications and learni
 - Frameworks: ASP.net Core, Django
 - Tools: Git, GitHub, VS Code, Postman
 
-### 🧰 Languages and Tools
-
-
+## 🧰 Languages and Tools
 <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 
 <img align="left" alt="NetCore" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
@@ -34,7 +32,7 @@ I'm a Junior Web Developer passionate about building web applications and learni
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-###
+
 ## GitHub Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lonchanick&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
