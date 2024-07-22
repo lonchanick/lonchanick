@@ -33,7 +33,7 @@ I'm a Junior Web Developer passionate about building web applications and learni
 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 
-## GitHub Analytics
+## ⚙️ GitHub Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lonchanick&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🌱 Learning
