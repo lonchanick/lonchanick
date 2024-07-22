@@ -1,4 +1,4 @@
-### Hi! I'm Diego.
+# Hi! I'm Diego.
 
 ## 🚀 About Me
 I'm a Junior Web Developer passionate about building web applications and learning new technologies. Currently, I'm working on enhancing my skills in frontend and backend development.
@@ -35,11 +35,8 @@ I'm a Junior Web Developer passionate about building web applications and learni
 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 
-
 ## GitHub Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lonchanick&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lonchanick&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 🌱 Learning
 - Currently learning Razor Pages and Database Design.
