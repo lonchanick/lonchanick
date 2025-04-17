@@ -5,7 +5,7 @@ I'm a Junior Web Developer passionate about building web applications and learni
 
 ## 🛠️ Technologies & Tools
 - Languages: C#, SQL, HTML, CSS, JavaScript, SQL Server
-- Frameworks: ASP.net Core, Django
+- Frameworks: ASP.net Core, React
 - Tools: Git, GitHub, VS Code, Postman
 
 ## 🧰 Languages and Tools
