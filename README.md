@@ -1,7 +1,7 @@
 # Hi! I'm Lonchanick!
 
 ## 🚀 About Me
-Ingeniero en Sistemas graduado de la Universidad Católica del Ecuador, con enfoque en desarrollo backend utilizando .NET y C#. Tengo experiencia construyendo APIs REST y aplicaciones web del lado del servidor, trabajando con tecnologías como SQL Server y Entity Framework. Actualmente profundizando mis conocimientos en análisis de datos. Abierto a nuevas oportunidades laborales.
+Graduado de Ingeniero en Sistemas, con enfoque en desarrollo backend utilizando .NET y C#. Tengo experiencia construyendo APIs REST y aplicaciones web del lado del servidor, trabajando con tecnologías como SQL Server y Entity Framework. Actualmente profundizando mis conocimientos en análisis de datos. Abierto a nuevas oportunidades laborales.
 
 ## 🛠️ Technologies & Tools
 - Languages: C#, SQL, HTML, CSS, JavaScript, SQL Server
@@ -28,8 +28,7 @@ Ingeniero en Sistemas graduado de la Universidad Católica del Ecuador, con enfo
 </br>
 </br>
  
-## 📖 Bibliography
-- [Ingeniero en Sistemas y Computación](https://drive.google.com/file/d/1u8nEC1ahGZ0E8bqy6J-O__VCGS4L7U3L/view?usp=sharing)
+## 📖 Bibliography 
 - [C# 11 and .NET 7](https://www.amazon.com/11-NET-Cross-Platform-Development-Fundamentals/dp/1803237805)
 - [The Simplified Beginner's Guide to Managing, Analyzing, and Manipulating Data With SQL](https://www.amazon.com/-/es/SQL-QuickStart-Guide-Manipulating-Programming/dp/1945051752/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=8PL3B8NQ3ARC&dib=eyJ2IjoiMSJ9.RYY2XaEAiwF_z6Tr-izIo_pyXAW_yHnsYn6ky7CWcN4Oy1txpMy-zSmpmmvqfXmIcE5oU_8oFxYmYoM2qXrkRKRw3v7fvfuiLM4WNFg-8QCwF3KlU-FP70M2uI_BvlUxvii3-DsX1Gk4K8snnNyw-y_FfpijYe_qiXMxKZaEmU1tZYOj-0fzVMinfm_r81JiIJzomD-vahkD2vVLn0KLrBxqKcckIORn8Tzm-G_OopA.r6kxX17pjfUqqWciq8q7JvptdqndTVuIgMOQp7HOSss&dib_tag=se&keywords=sql&qid=1780238558&s=books&sprefix=sq%2Cstripbooks-intl-ship%2C322&sr=1-2)
 
